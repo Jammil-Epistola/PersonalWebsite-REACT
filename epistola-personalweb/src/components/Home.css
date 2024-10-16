@@ -1,12 +1,10 @@
 
-
-/* Force full-width for the container */
 .title-container {
     background-image: url('https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif');
     background-size: cover;
     background-position: center;
-    height: 94.1vh;
-    width: 100%; /* Use viewport width to ensure no white space */
+    height: 92.4vh;
+    width: 100%; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,34 +14,35 @@
 .title-content {
     text-align: center;
     color: white;
-    background: rgba(0, 0, 0, 0.5); /* Transparent dark overlay */
+    background: rgba(0, 0, 0, 0.5); 
     padding: 20px;
     border-radius: 10px;
 }
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 60px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .title-name {
-    font-size: 1.5rem;
+    font-size: 25px;
     margin-bottom: 20px;
 }
 
 .btnAbout {
     padding: 10px 25px;
-    background-color: #007bff;
-    color: white;
-    border: none;
+    background-color: transparent; 
+    color: white; 
+    border: 2px solid white; 
     border-radius: 5px;
-    font-size: 1rem;
+    font-size: 25px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 .btnAbout:hover {
-    background-color: #0056b3;
+    background-color: rgb(12, 11, 11); 
+    color: #a6ff00; 
+    border-color: #e6ff07; 
 }
-
