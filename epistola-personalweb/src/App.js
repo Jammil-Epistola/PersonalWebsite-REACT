@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div>
         <Navigation/>
-        <div style={{padding:'0 20px'}}>
+        <div>
           <Routes>
             <Route path="/" element={<Home />}/>
             <Route path="/About" element={<About />}/>
