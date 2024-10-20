@@ -38,8 +38,10 @@ const About = () => {
         <h2>Hello! My Name is Jammil C. Epistola </h2>
         <hr className="separator-line" />
         <p>I was born in Al Qassin, KSA and was raised in the Philippines.<br />
-        Currently 3rd year in Pamantasan ng Cabuyao,Pursuing a Bachelor of Science in Computer Science. <br />
+        Currently 3rd year in Pamantasan ng Cabuyao,Pursuing a Bachelor of Science in Computer Science.
          Willing to learn any skills related to my profession. My Hobbies are reading Manga or Manhwas and playing video games.
+         My dream that I want to achieve is to be a good game developer with a great fanbase for my games (Indie or Company). 
+         Currently trying to create my first game as my initial step towards that dream although still planning out for a concept.
         </p>
       </div>
     </div>
