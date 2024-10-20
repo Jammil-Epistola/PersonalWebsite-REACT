@@ -64,17 +64,18 @@ const Skills = () => {
                 <Slider ref={sliderRef} {...settings}>
                     <div className="slider-item1">
                         <h2>HTML</h2>
-                        <p>My proficiecy in HTML is I am quite Competent on creating HTMLs. Started learning as a I was curious and somehow enjoyed the process of it.</p>
+                        <p>My proficiecy in HTML is that I am quite Competent on creating HTMLs. Started learning when I was curious watching 
+                            my cousin code a website and somehow enjoyed the process of it.</p>
                     </div>
                     <div className="slider-item2">
                         <h2>CSS</h2>
-                        <p>My proficiecy in CSS is quite subpar yet. I am still learning about designs and color pallete. I do try experiment different kind of styles and still learning
-                            on how to use CSS frameworks and trying to implement it in my projects.
+                        <p>My proficiecy in CSS is quite average in my opininon. I am still learning about designs and color pallete. I do try and experiment different kind of styles 
+                            and still learning on how to use CSS frameworks and trying to implement it in my projects.
                         </p>
                     </div>
                     <div className="slider-item3">
                         <h2>JavaScript</h2>
-                        <p>In Javascript, I could say I am Advance in terms of proficiecy. I still learning more about JavaScript like currently learning on how to use Node.js 
+                        <p>In Javascript, I could say I am still a beginner in terms of proficiecy. I still learning more about JavaScript like currently learning on how to use Node.js 
                             which has REACT.
                         </p>
                     </div>

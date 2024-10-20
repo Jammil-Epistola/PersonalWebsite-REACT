@@ -9,6 +9,7 @@ const SubmissionSuccess = ({ formData }) => {
     height: '100vh', // Full viewport height
     flexDirection: 'column',
     textAlign: 'center',
+    backgroundColor: '#F9F6EE',
   };
 
   const accordionStyle = {
