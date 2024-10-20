@@ -62,23 +62,23 @@ const Skills = () => {
             {/* Slider Section */}
             <div className="slider-container">
                 <Slider ref={sliderRef} {...settings}>
-                    <div className="slider-item">
+                    <div className="slider-item1">
                         <h2>HTML</h2>
                         <p>My proficiecy in HTML is I am quite Competent on creating HTMLs. Started learning as a I was curious and somehow enjoyed the process of it.</p>
                     </div>
-                    <div className="slider-item">
+                    <div className="slider-item2">
                         <h2>CSS</h2>
                         <p>My proficiecy in CSS is quite subpar yet. I am still learning about designs and color pallete. I do try experiment different kind of styles and still learning
                             on how to use CSS frameworks and trying to implement it in my projects.
                         </p>
                     </div>
-                    <div className="slider-item">
+                    <div className="slider-item3">
                         <h2>JavaScript</h2>
                         <p>In Javascript, I could say I am Advance in terms of proficiecy. I still learning more about JavaScript like currently learning on how to use Node.js 
                             which has REACT.
                         </p>
                     </div>
-                    <div className="slider-item">
+                    <div className="slider-item4">
                         <h2>React</h2>
                         <p>I would say my newly acquired skill. Was enjoying the process of learning and experiment with different components that it has and learning to use bootstrap as well.
                             I also learned the different imports that bootstrap has, an example would be this slider called a React slick carousel that I recently learned!

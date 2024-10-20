@@ -9,7 +9,7 @@ body{
     align-items: center;
     text-align: center;
     background-color: #E9DCC9;
-    min-height: 793.2px;
+    min-height: 91.6vh;
 }
 
 /* Top Section Styling */
@@ -58,19 +58,8 @@ body{
     height: 300px; 
     text-align: center; 
     padding: 20px; 
+    
 }
 
-.slider-item:nth-child(2) {
-    background-color: #f1f1f1;
-}
 
-.slider-item:nth-child(3) {
-    background-color: #e9ecef;
-}
-
-.slider-item:nth-child(4) {
-    background-color: #dee2e6;
-}
-
-  
   
